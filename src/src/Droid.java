@@ -52,5 +52,5 @@ public class Droid {
         energyTransfer(myDroid,d1);
 
 
-    }
+    }   
 }
